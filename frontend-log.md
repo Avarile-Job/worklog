@@ -21,10 +21,15 @@
   - Deal的所有搜索接口 => 青木
   - Deal创建和修改的接口 => 青木
   - UserDeal的接口 => 青木
+  - 数据分析接口 => 青木
   - AdminDeal的接口 => Av
   - AdminUser的接口 => Av
   - User的接口 => Av
   - Connection相关的创建&修改和查询的接口 => Av
   - Ads相关的接口 => Av
+  - 支付相关接口 => Av
+  - adminRBAC => Av
   - Category相关的接口 => Loki
   - Comment相关的接口 => Loki
+  - 测试 => Loki
+  - 跟踪和维护bug列表 => Loki
